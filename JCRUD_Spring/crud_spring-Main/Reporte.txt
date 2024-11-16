@@ -1,2 +1,0 @@
-Placa: JC78, Modelo: Bolio, Marca: Dogde, Velocidad: 100000,00
-Placa: JUMS, Modelo: Bolio, Marca: Dogde, Velocidad: 100,00
